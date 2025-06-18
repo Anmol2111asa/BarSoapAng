@@ -22,6 +22,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />Add commentMore actions
+</div>
+
 ## 🌐 Socials:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/anmol0240)
