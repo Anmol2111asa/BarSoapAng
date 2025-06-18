@@ -1,24 +1,27 @@
-<marquee behavior="scroll" direction="up" scrollamount="2" height="600">
-<!-- 👇 Paste your entire GitHub README content here 👇 -->
-<!-- Begin of content -->
+<!-- GitHub Stats Section - Animated with <marquee> -->
 
-<h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<ul>
-  <li>🔭 I’m currently working on <strong>Python, Web Dev, AI/ML</strong></li>
-  <li>👯 I’m looking to collaborate on <strong>Hackathon/ML projects</strong></li>
-  <li>🤝 I’m looking for help with <strong>Open-source Python + ML</strong></li>
-  <li>🌱 I’m currently learning <strong>Machine Learning, Streamlit, ReactJS</strong></li>
-  <li>💬 Ask me about <strong>Python, Streamlit, AI, GitHub strategies</strong></li>
-  <li>⚡ Fun fact: <strong>I use Python like it’s my Swiss army knife 🐍</strong></li>
-</ul>
+<marquee behavior="scroll" direction="up" scrollamount="2" height="500px">
+  
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F77F00&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Welcome+to+my+GitHub+Profile!;Scroll+down+to+explore+my+tech+world+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmol0240&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Anmol's GitHub Stats" />
 </p>
 
-<!-- (Rest of your social icons, tech stack, GitHub stats, etc.) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol0240&theme=dark&hide_border=false" alt="Anmol's GitHub Streak" />
+</p>
 
-<!-- End of content -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol0240&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Anmol0240&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Anmol0240&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
 </marquee>
