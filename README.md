@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Exploring+Python%2C+AI%2C+and+Web+Tech!;Open+to+collaborations+%F0%9F%9A%80;Loves+Python+like+it's+a+superpower+%F0%9F%94%A5" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anmol+Bhonsale;Frontend+%7C+AI+%7C+Python+Developer;I+love+building+cool+tech+projects+%F0%9F%9A%80" />
 </p>
 
 ---
 
 # 💫 About Me:
-👋 Hi, I’m Anmol Bhonsale — a passionate developer from India, currently exploring the intersection of Python, AI/ML, and web technologies.<br><br>
+👋 Hi, I’m Anmol  — a passionate developer from India, currently exploring the intersection of Python, AI/ML, and web technologies.<br><br>
 💻 I enjoy building real-world applications using tools like Streamlit, ReactJS, and Python automation. My projects often blend creativity, smart logic, and clean UI to solve meaningful problems.<br><br>
 🚀 I’m currently working on projects involving Python, Web Development, and AI/ML, and I’m actively learning more about Machine Learning, Computer Vision, and advanced frameworks.<br><br>
 🤝 I love collaborating during hackathons and am always open to contributing to open-source Python or ML-based projects.<br><br>
