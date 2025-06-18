@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anmol Bhonsale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anmol</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anmol+Bhonsale;Frontend+%7C+AI+%7C+Python+Developer;I+love+building+cool+tech+projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=600&lines=Full+Stack+%7C+AI+%7C+Python+Developer;I+love+building+cool+tech+projects+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
 </p>
 
 ---
@@ -59,9 +63,10 @@
 
 # 📈 GitHub Stats (Animated)
 
-<marquee behavior="scroll" direction="up" scrollamount="2" height="600px">
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<marquee behavior="scroll" direction="up" scrollamount="5" height="500px">
+  
+<
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anmol0240&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Anmol's GitHub Stats" />
@@ -79,18 +84,13 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Anmol0240&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Anmol0240&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
 
 </marquee>
 
----
 
 ## 💰 Support Me
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anmolbhonsz)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=Anmol0240&icon=0&color=0)](https://visitcount.itsvg.in)
